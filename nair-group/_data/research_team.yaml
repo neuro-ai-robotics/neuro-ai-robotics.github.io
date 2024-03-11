@@ -1,0 +1,44 @@
+principal_researchers:
+  - name: Pablo Lanillos
+    image: /images/research-team/pablo-lanillos.jpg
+    description: (IP and Ramón y Cajal) is a renowned expert in neuroscience-inspired AI for robotics. He is leading the active inference framework for robotics in Europe that will be used in the project. In the last year, he invested his talent attraction funds into developing RL solutions for exoskeletons. He has strong experience in scientifically coordinating and managing international projects (Spikeference.eu, Metatool.eu and Deepself.de).
+    links:
+      - url: https://twitter.com/PLanillos
+        icon: /icons/x.png
+      - url: https://es.linkedin.com/in/planillos
+        icon: /icons/linkedin.png
+      - url: https://scholar.google.com/citations?user=SUdmeIgAAAAJ&hl=en
+        icon: /icons/google-scholar.png
+      - url: https://therobotdecision.com
+        icon: /icons/personal-web-page.png
+      - url: https://orcid.org/0000-0001-9154-0798
+        icon: /icons/orcid.png
+phd_students:
+  - name: Andrés Chavarrías
+    image: /images/research-team/andres-chavarrias.jpg
+    description: (Master in Biomedic Engineering at Universidad Politécnica de Madrid) is an experienced researcher in human gait and RL applied to robotic exoskeletons. He has worked in Marsibionics and in multiple Spanish and EU projects at Universidad de Alcalá (QUADIR, PUILPOS, FRailAlert).
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url: https://es.linkedin.com/in/andr%C3%A9s-chavarr%C3%ADas-s%C3%A1nchez-562b2b1a3
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+  - name: Abián Torres
+    image: /images/research-team/abian-torres.jpg
+    description: (Master in Artificial Intelligence at Universidad Internacional de la Rioja) is a researcher with strong experience in applied machine learning. He is currently developing Deep Active Inference algorithms for robotics.
+    links:
+      - url: https://twitter.com/_abiantorres
+        icon: /icons/x.png
+      - url: https://es.linkedin.com/in/abi%C3%A1n-torres-torres-282b02162
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: https://orcid.org/0009-0001-9880-102X
+        icon: /icons/orcid.png
