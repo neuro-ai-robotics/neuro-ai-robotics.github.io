@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The NAIR group is a research group at the Spanish National Research Council (CSIC). Our research focuses on 
   the development of neuroscience-inspired AI and robotics, with a special emphasis on the development 
   of bio-inspired algorithms for perception, learning, and control in autonomous systems.
-baseurl: "/nair.github.io" # repo path # the subpath of your site, e.g. /blog
+baseurl: "" # repo path # the subpath of your site, e.g. /blog
 url: "https://nair.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nair.group
 github_username:  neuro-ai-robotics
