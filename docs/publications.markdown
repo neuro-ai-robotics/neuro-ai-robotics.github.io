@@ -12,6 +12,7 @@ Publications in which the NAIR group has been involved:
     overflow-y: auto;
     display: block;
     margin-bottom: 50px;
+    overflow-x: auto;
 }
 
 .scrollable-table table {
@@ -19,11 +20,13 @@ Publications in which the NAIR group has been involved:
     border-collapse: collapse;
 }
 
-.scrollable-table th {
+.scrollable-table th{
     position: sticky;
     top: 0;
     background: white;
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    background-color: #f2f2f2; /* Cambia esto al color que prefieras */
+    color: black; /* Cambia esto al color que prefieras para el texto */
 }
 
 #myInput {
