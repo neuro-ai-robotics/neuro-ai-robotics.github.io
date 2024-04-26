@@ -54,6 +54,18 @@ Here is the list of our talented researchers:
 {% endfor %}
 
 ## Postdocs and PhD Students:
+{% for student in site.data.research_team.postdocs %}
+###  {{ student.name }}
+<div class="researcher-container">
+  <img src="{{ student.image }}" alt="{{ student.name }}">
+  <p> {{ student.description }}</p>
+</div>
+<div class="researcher-links">
+  {% for link in student.links %}
+  <a href="{{ link.url }}"><img src="{{ link.icon }}" alt="Link" style="width:20px;height:20px;display:inline-block;"></a>
+  {% endfor %}
+</div>
+{% endfor %}
 {% for student in site.data.research_team.phd_students %}
 ###  {{ student.name }}
 <div class="researcher-container">
