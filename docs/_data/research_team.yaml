@@ -1,7 +1,7 @@
 principal_researchers:
   - name: Pablo Lanillos
     image: /images/research-team/pablo-lanillos.jpg
-    description: (IP and Ramón y Cajal) expert in neuroscience-inspired AI and robotics. Interested in understanding the brain-body computational mechanisms to develop the technology of the future. Scientific coordinator of international projects (Spikeference.eu, Metatool.eu and Deepself.de).
+    description: (IP and Ramón y Cajal) in neuroscience-inspired AI and robotics. Interested in understanding the brain-body computational mechanisms to develop the technology of the future. Scientific coordinator of international projects (Spikeference.eu, Metatool.eu and Deepself.de).
     links:
       - url: https://twitter.com/PLanillos
         icon: /icons/x.png
