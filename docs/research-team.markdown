@@ -54,10 +54,9 @@ Here is the list of our talented researchers:
 
 ## Postdocs, PhD students and researchers:
 {% for student in site.data.research_team.postdocs %}
-###  {{ student.name }}
 <div class="researcher-container">
   <img src="{{ student.image }}" alt="{{ student.name }}">
-  <p> {{ student.description }}</p>
+  <p> <b>{{ student.name }}</b>.{{ student.description }}</p>
 </div>
 <div class="researcher-links">
   {% for link in student.links %}
@@ -66,10 +65,9 @@ Here is the list of our talented researchers:
 </div>
 {% endfor %}
 {% for student in site.data.research_team.phd_students %}
-###  {{ student.name }}
 <div class="researcher-container">
   <img src="{{ student.image }}" alt="{{ student.name }}">
-  <p> {{ student.description }}</p>
+  <p> <b>{{ student.name }}</b>. {{ student.description }}</p>
 </div>
 <div class="researcher-links">
   {% for link in student.links %}
@@ -80,10 +78,9 @@ Here is the list of our talented researchers:
 
 ## Former researchers
 {% for student in site.data.research_team.former %}
-###  {{ student.name }}
 <div class="researcher-container">
   <img src="{{ student.image }}" alt="{{ student.name }}">
-  <p> {{ student.description }}</p>
+  <p><b>{{ student.name }}</b>. {{ student.description }}</p>
 </div>
 <div class="researcher-links">
   {% for link in student.links %}
