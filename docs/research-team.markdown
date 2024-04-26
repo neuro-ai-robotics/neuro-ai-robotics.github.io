@@ -41,10 +41,9 @@ Here is the list of our talented researchers:
 
 ## Principal Investigators:
 {% for researcher in site.data.research_team.principal_researchers %}
-###  {{ researcher.name }}
 <div class="researcher-container">
   <img src="{{ researcher.image }}" alt="{{ researcher.name }}">
-  <p> {{ researcher.description }}</p>
+  <p> <b>{{ researcher.name }}</b>. {{ researcher.description }}</p>
 </div>
 <div class="researcher-links">
   {% for link in researcher.links %}
