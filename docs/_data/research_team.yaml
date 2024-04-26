@@ -13,6 +13,21 @@ principal_researchers:
         icon: /icons/personal-web-page.png
       - url: https://orcid.org/0000-0001-9154-0798
         icon: /icons/orcid.png
+postdocs:
+  - name: Ajith Anil Meera
+    image: /images/research-team/ajith-meera.jpg
+    description: (PhD in Robotics) working in METATOOL project at Donders Institute.
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url: 
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
 phd_students:
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
@@ -30,7 +45,7 @@ phd_students:
         icon: /icons/orcid.png
   - name: Abián Torres
     image: /images/research-team/abian-torres.jpg
-    description: (Master in Artificial Intelligence at Universidad Internacional de la Rioja) is a researcher with strong experience in applied machine learning. He is currently developing Deep Active Inference algorithms for robotics.
+    description: (Master in Artificial Intelligence at Universidad Internacional de la Rioja) is a researcher with strong experience in applied machine learning. He is currently developing Deep Active Inference algorithms for robotics.)
     links:
       - url: https://twitter.com/_abiantorres
         icon: /icons/x.png
@@ -42,3 +57,40 @@ phd_students:
         icon: /icons/personal-web-page.png
       - url: https://orcid.org/0009-0001-9880-102X
         icon: /icons/orcid.png
+  - name: Justus Hübotter
+    image: /images/research-team/justus-huebotter.jpg
+    description: (Master in AI and Neuroscience) Co-supervision. PhD candidate at Donders Institute".
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+  - name: Filip Novicky
+    image: /images/research-team/filip-novicky.jpg
+    description: (Master in Neuroscience) Co-supervision. PhD candidate in EU Doctoral Network "Serotonin and Beyond".
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+former:
+  - name: Ruben van Bergen
+    image: /images/research-team/ruben-bergen.jpg
+    description: Postdoc in SPIKEFERENCE project at Donders Institute.
+  - name: Mahyar Shahsavari
+    image: /images/research-team/mahyar-shahsavari.jpg
+    description: (Co-supervisor) Postdoc in SPIKEFERENCE project at Donders Institute.
+    
+        
