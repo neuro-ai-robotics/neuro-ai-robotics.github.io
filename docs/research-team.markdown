@@ -39,7 +39,7 @@ permalink: /research-team/
 
 Here is the list of our talented researchers:
 
-## Principal Researchers:
+## Principal Investigators:
 {% for researcher in site.data.research_team.principal_researchers %}
 ###  {{ researcher.name }}
 <div class="researcher-container">
@@ -53,7 +53,7 @@ Here is the list of our talented researchers:
 </div>
 {% endfor %}
 
-## PhD Students:
+## Postdocs and PhD Students:
 {% for student in site.data.research_team.phd_students %}
 ###  {{ student.name }}
 <div class="researcher-container">
