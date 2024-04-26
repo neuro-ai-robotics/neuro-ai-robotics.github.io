@@ -56,7 +56,7 @@ Here is the list of our talented researchers:
 {% for student in site.data.research_team.postdocs %}
 <div class="researcher-container">
   <img src="{{ student.image }}" alt="{{ student.name }}">
-  <p> <b>{{ student.name }}</b>.{{ student.description }}</p>
+  <p> <b>{{ student.name }}</b>. {{ student.description }}</p>
 </div>
 <div class="researcher-links">
   {% for link in student.links %}
