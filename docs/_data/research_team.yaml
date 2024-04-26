@@ -1,7 +1,7 @@
 principal_researchers:
   - name: Pablo Lanillos
     image: /images/research-team/pablo-lanillos.jpg
-    description: (IP and Ramón y Cajal) is a renowned expert in neuroscience-inspired AI for robotics. He is leading the active inference framework for robotics in Europe that will be used in the project. In the last year, he invested his talent attraction funds into developing RL solutions for exoskeletons. He has strong experience in scientifically coordinating and managing international projects (Spikeference.eu, Metatool.eu and Deepself.de).
+    description: (IP and Ramón y Cajal) expert in neuroscience-inspired AI and robotics. Interested in understanding the brain-body computational mechanisms to develop the technology of the future. Scientific coordinator of international projects (Spikeference.eu, Metatool.eu and Deepself.de).
     links:
       - url: https://twitter.com/PLanillos
         icon: /icons/x.png
