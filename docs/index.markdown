@@ -30,8 +30,8 @@ layout: home
   </a>
 </div>
 
-* [About](#about)
-* [Research Lines](#research-lines)
+[//]:* [About](#about)
+[//]:* [Research Lines](#research-lines)
 
 The Neuroscience-inspired Artificial Intelligence and Robotics (NAIR) research group belongs to the [Spanish National Research Council (CSIC)](https://www.csic.es/en/csic). Our research transforms our understanding of the brain into future technologies. It aims to improve artificial intelligence and robotic systems by studying how humans perceive and interact with their bodies, while also uncovering the internal mechanisms of information processing in the brain. We develop novel algorithms for learning, estimation, and control of complex systems based on findings from neuroscience, and evaluate them on robotic platforms (humanoids, manipulators, exoskeletons). Our models are not only relevant to disciplines such as computational neuroscience, robotics, and cognitive science, but also have practical applications in human-centered solutions such as healthcare, human-robot interaction, wearable robotics, and more. Our goal is to achieve human-like embodied intelligence in robots, <ins>enabling them to act and adapt to complex real-world interactions, which is one of the key challenges of this century</ins>.
 
