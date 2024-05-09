@@ -34,7 +34,7 @@ form input, form textarea {
 
 </style>
 
-Feel free to reach us to the following email (use "VcqRXuweBUyvcMP" code as subject, please): p.lanillos@csic.es
+Feel free to reach us to the following email (use "VcqRXuweBUyvcMP" code as subject, please): p <dot> lanillos <at> csic <dot> es
 
 Where to find us:
 
