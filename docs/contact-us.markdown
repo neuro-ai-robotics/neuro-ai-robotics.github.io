@@ -4,9 +4,6 @@ title: Contact us
 permalink: /contact-us/
 ---
 
-The NAIR group is a research group at the Spanish National Research Council (CSIC). Our research focuses on the development of neuroscience-inspired AI and robotics, with a special emphasis on the development of bio-inspired algorithms for perception, learning, and control in autonomous systems.
-
-For more information, please contact us using the form below:
 <style>
     .map-container {
     position: relative;
@@ -37,16 +34,7 @@ form input, form textarea {
 
 </style>
 
-<!--https://www.netlify.com/platform/core/forms/-->
-<form name="contact" method="POST" data-netlify="true" style="margin-bottom: 20px;">
-    <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required><br>
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email" required><br>
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message"  required></textarea><br>
-    <input type="submit" value="Send">
-</form>
+Feel free to reach us to the following email (use "VcqRXuweBUyvcMP" code as subject, please): p.lanillos@csic.es
 
 Where to find us:
 
