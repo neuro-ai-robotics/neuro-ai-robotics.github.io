@@ -5,6 +5,50 @@ layout: home
 
 <link rel="stylesheet" href="css/bootstrap-carousel.css">
 
+<style>
+.research-line-header {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+}
+
+.research-line-header:hover {
+    background-color: #e9e9e9;
+}
+
+.research-content {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+<style>
+#research-lines-nav button {
+    margin: 0 10px;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+#research-lines-nav button.active {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.research-content {
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+    display: none; /* Initially hide all */
+}
+
+.research-content.active {
+    display: block; /* Show active content */
+}
+</style>
+
 ## Welcome to the NAIR group website
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style = "margin-bottom: 20px;">
@@ -79,5 +123,43 @@ Self-Perception and Synthetic Consciousness is a cutting-edge research area that
 
 ---
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<!--<div id="research-lines-nav">
+  <button class="btn btn-light active" onclick="showResearchLine('ai-neuro')">AI Inspired by Neuroscience</button>
+  <button class="btn btn-light" onclick="showResearchLine('robotic-learning')">Robotic Learning</button>
+  <button class="btn btn-light" onclick="showResearchLine('spiking-control')">Spiking Control</button>
+</div>
+
+<div id="ai-neuro" class="research-content">
+
+</div>
+
+<div id="robotic-learning" class="research-content" style="display:none;">
+
+</div>
+
+<div id="spiking-control" class="research-content" style="display:none;">
+
+</div>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script>
+function showResearchLine(id) {
+  // Hide all research content divs
+  document.querySelectorAll('.research-content').forEach(div => {
+    div.style.display = 'none';
+  });
+  
+  // Show the selected one
+  document.getElementById(id).style.display = 'block';
+
+  // Update button appearance
+  document.querySelectorAll('#research-lines-nav button').forEach(button => {
+    button.classList.remove('active');
+  });
+  document.querySelector('#research-lines-nav button[onclick="showResearchLine(\'' + id + '\')"]').classList.add('active');
+}
+</script>
+-->
