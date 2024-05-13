@@ -86,4 +86,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-[Go to all publications](/publications/table/)
+<!--[Go to all publications](/publications/table/)-->

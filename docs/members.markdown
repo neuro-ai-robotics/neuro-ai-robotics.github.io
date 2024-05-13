@@ -98,7 +98,7 @@ Here is the list of our talented researchers:
     {% endif %}
     {% assign csic_phd_students = site.data.research_team.phd_students | where: "institution", "csic" %}
     {% if csic_phd_students.size > 0 %}
-    <h4 style="text-align: center;"> PhD students </h4>
+    <h4 style="text-align: center;"> M2 Researchers </h4>
     {% for student in site.data.research_team.phd_students %}
     {% if student.institution == 'csic' %}
     <div class="researcher-container">
