@@ -52,7 +52,7 @@ Here is the list of our talented researchers:
 <div class="column">
   <div class="researcher-container">
     <img src="{{ researcher.image }}" alt="{{ researcher.name }}">
-    <p> <b>{{ researcher.name }}</b>. {{ researcher.description }} ({{ researcher.institution }})</p>
+    <p> <b>{{ researcher.name }}</b>. {{ researcher.description }} [{{ researcher.institution }}]</p>
   </div>
   <div class="researcher-links">
   {% for link in researcher.links %}
@@ -73,7 +73,7 @@ Here is the list of our talented researchers:
 <div class="column">
   <div class="researcher-container">
     <img src="{{ student.image }}" alt="{{ student.name }}">
-    <p><b>{{ student.name }}</b>. {{ student.description }} ({{ student.institution }})</p>
+    <p><b>{{ student.name }}</b>. {{ student.description }} [{{ student.institution }}]</p>
   </div>
   <div class="researcher-links">
     {% for link in student.links %}
@@ -91,7 +91,7 @@ Here is the list of our talented researchers:
 <div class="column">
   <div class="researcher-container">
     <img src="{{ student.image }}" alt="{{ student.name }}">
-    <p><b>{{ student.name }}</b>. {{ student.description }} ({{ student.institution }})</p>
+    <p><b>{{ student.name }}</b>. {{ student.description }} [{{ student.institution }}]</p>
   </div>
   <div class="researcher-links">
     {% for link in student.links %}
@@ -112,7 +112,7 @@ Here is the list of our talented researchers:
 <div class="column">
   <div class="researcher-container">
     <img src="{{ student.image }}" alt="{{ student.name }}">
-    <p><b>{{ student.name }}</b>. {{ student.description }} ({{ student.institution }})</p>
+    <p><b>{{ student.name }}</b>. {{ student.description }} [{{ student.institution }}]</p>
   </div>
   <div class="researcher-links">
     {% for link in student.links %}

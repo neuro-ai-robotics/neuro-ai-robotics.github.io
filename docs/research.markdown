@@ -31,17 +31,47 @@ permalink: /research/
     }
 
     .research-entry {
+        border: 1px solid #ccc; /* Light gray border */
+        padding: 15px;
         margin-bottom: 20px;
-        overflow: auto;  /* Ensures the container wraps around floated images */
-        clear: both; /* Clears the float, necessary if the previous element is floated */
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column; /* Stack rows vertically */
+    }
+
+    .title-row {
+        display: flex;
+        width: 100%;
     }
 
     .research-entry img {
-        max-width: 150px;  /* Adjust size as necessary */
+        width: 33%;  /* Image takes up 33% of the width */
         height: auto;
-        float: left;
         margin-right: 20px;
+        border-radius: 8px;
+        flex-shrink: 0; /* Prevent image from shrinking */
     }
+
+    .title-container {
+        width: 66%; /* Title takes up 66% of the width */
+        display: flex;
+        align-items: center; /* Center align title vertically */
+    }
+
+    .research-entry .content {
+        margin-top: 20px; /* Add some space between title row and content */
+        display: flex;
+        flex-direction: column; /* Stack items vertically */
+    }
+
+    .content h3 {
+        margin-top: 0;
+    }
+
+    .content p, .content a {
+        margin: 10px 0; /* Add margin for better spacing */
+    }
+
     .authors, .year {
         font-size: 12px; /* Smaller font size */
         font-weight: lighter; /* Less bold than the default */
@@ -62,17 +92,21 @@ permalink: /research/
 <div class="research-container">
   {% for research in site.data.research %}
     <div class="research-entry" data-topics="{{ research.topics | join: ', ' }}">
-        <img src="{{ research.image }}" alt="Image for {{ research.title }}" style="float: left; margin-right: 20px; width: 150px; height: auto;">
-        <h2>{{ research.title }}</h2>
-        <p class="authors">{{ research.authors }} - <span class="year">{{ research.year }}</span></p>
-        <p><strong>Abstract:</strong> {{ research.abstract }}</p>
-        <a href="{{ research.link }}">Read the paper</a>
-        <p><strong>Topics:</strong> {{ research.topics | join: ", " }}</p>
+        <div class="title-row">
+            <img src="{{ research.image }}" alt="Image for {{ research.title }}">
+            <div class="title-container">
+                <h3>{{ research.title }}</h3>
+            </div>
+        </div>
+        <div class="content">
+            <p class="authors">{{ research.authors }} - <span class="year">{{ research.year }}</span></p>
+            <p><strong>Abstract:</strong> {{ research.abstract }}</p>
+            <a href="{{ research.link }}">Read the paper</a>
+            <p><strong>Topics:</strong> {{ research.topics | join: ", " }}</p>
+        </div>
     </div>
-    <div style="clear: both;"></div>
   {% endfor %}
 </div>
-
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -86,4 +120,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<!--[Go to all publications](/publications/table/)-->
+[Go to all publications](/publications/table/)
