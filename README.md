@@ -26,3 +26,5 @@ Neuroscience-inspired AI and Robotics (NAIR) group
 5. Serve the web:
 
 ```$ bundle exec jekyll serve```
+
+6. Open the server address in a navigator: http://127.0.0.1:4000/
