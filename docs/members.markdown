@@ -16,19 +16,24 @@ permalink: /members/
   .columns-container {
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-between;
+      justify-content: center;
   }
 
   .column {
       flex: 1 1 calc(33.333% - 40px);
       box-sizing: border-box;
       margin: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-width: 250px;
   }
 
   .researcher-container img {
       width: 100%;
       max-width: 300px;
-      height: auto;
+      height: 300px;
+      object-fit: cover;
       border-radius: 15px;
       margin-bottom: 10px;
   }
@@ -42,6 +47,18 @@ permalink: /members/
   .researcher-links a {
       margin-right: 5px;
   }
+
+  @media (max-width: 768px) {
+    .column {
+        flex: 1 1 calc(50% - 40px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .column {
+        flex: 1 1 100%;
+    }
+  }
 </style>
 
 Here is the list of our talented researchers:
@@ -52,7 +69,7 @@ Here is the list of our talented researchers:
 <div class="column">
   <div class="researcher-container">
     <img src="{{ researcher.image }}" alt="{{ researcher.name }}">
-    <p> <b>{{ researcher.name }}</b>. {{ researcher.description }} [{{ researcher.institution }}]</p>
+    <p><b>{{ researcher.name }}</b>. {{ researcher.description }} [{{ researcher.institution }}]</p>
   </div>
   <div class="researcher-links">
   {% for link in researcher.links %}
