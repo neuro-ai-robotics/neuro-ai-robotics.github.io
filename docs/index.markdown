@@ -70,33 +70,10 @@ layout: home
         }
 </style>
 
-## Welcome to the NAIR group website
-
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
-    <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    </ol>
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="/images/home-slider/f.elconfidencial.com_original_42e_f46_45a_42ef4645abb3c89a61db4fd111641a44.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item">
-            <img src="/images/home-slider/Robots-inventores-imitaran-la-forma-de-crear-herramientas-de-los-humanos-primitivos.jpg" class="d-block w-100" alt="...">
-        </div>
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
+## Neuro AI and Robotics Group
 
 
-The Neuroscience-inspired Artificial Intelligence and Robotics (NAIR) research group belongs to the [Spanish National Research Council (CSIC)](https://www.csic.es/en/csic), [Cajal International Neuroscience Center (CINC)](https://www.cinc.csic.es/). Our research transforms our understanding of the brain into future technologies. It aims to improve artificial intelligence and robotic systems by studying how humans perceive and interact with their bodies, while also uncovering the internal mechanisms of information processing in the brain. We develop novel algorithms for learning, estimation, and control of complex systems based on findings from neuroscience, and evaluate them on robotic platforms (humanoids, manipulators, exoskeletons). Our models are not only relevant to disciplines such as computational neuroscience, robotics, and cognitive science, but also have practical applications in human-centered solutions such as healthcare, human-robot interaction, wearable robotics, and more. Our goal is to achieve human-like embodied intelligence in robots, <ins>enabling them to act and adapt to complex real-world interactions, which is one of the key challenges of this century</ins>.
+<img src="images/NAIRlogo.png" class="card-img-left" alt="Neuroinspired AI"> The Neuroscience-inspired Artificial Intelligence and Robotics (NAIR) research group belongs to the [Spanish National Research Council (CSIC)](https://www.csic.es/en/csic), [Cajal International Neuroscience Center (CINC)](https://www.cinc.csic.es/). Our research *transforms our understanding of the brain into future technologies*. It aims to improve artificial intelligence and robotic systems by studying how humans perceive and interact with their bodies, while also uncovering the internal mechanisms of information processing in the brain. We develop novel algorithms for learning, estimation, and control of complex systems based on findings from neuroscience, and evaluate them on robotic platforms (humanoids, manipulators, exoskeletons). Our models are not only relevant to disciplines such as computational neuroscience, robotics, and cognitive science, but also have practical applications in human-centered solutions such as healthcare, human-robot interaction, wearable robotics, and more. Our goal is to achieve human-like embodied intelligence in robots, <ins>enabling them to act and adapt to complex real-world interactions, which is one of the key challenges of this century</ins>.
 
 **Experience:** Our research group has over ten years of experience in brain-inspired machine learning models for robot perception and action. We have been pioneers in successfully deploying neuroscience-inspired models (e.g., predictive coding) on humanoid robots, as well as replicating experiments of human perception on robotic systems (e.g., rubber hand illusion). We are internationally recognized for our active inference approach to robotics, which is a framework inspired by neuroscience that describes the brain as an inference machine. Currently, we are investigating new theoretical probabilistic models for practical applications in industrial robotics, environmental monitoring, and healthcare.
 
@@ -105,7 +82,7 @@ The Neuroscience-inspired Artificial Intelligence and Robotics (NAIR) research g
     <div class="row">
         <div class="col-md-6">
             <div class="card">
-                <img src="images/research-lines/empty.jpg" class="card-img-left" alt="AI Inspired by Neuroscience">
+                <img src="images/research-lines/empty.jpg" class="card-img-left" alt="Neuroinspired AI">
                 <div class="card-body">
                     <h5 class="card-title">Neuroscience-inspired Artificial Intelligence</h5>
                     <p class="card-text">Developing AI systems inspired by the complexity and efficiency of the human brain to create adaptive and efficient algorithms for areas, such as healthcare, robotics, and agriculture</p>
@@ -149,6 +126,29 @@ The Neuroscience-inspired Artificial Intelligence and Robotics (NAIR) research g
             </div>
         </div>
     </div>
+</div>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="/images/home-slider/f.elconfidencial.com_original_42e_f46_45a_42ef4645abb3c89a61db4fd111641a44.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/home-slider/Robots-inventores-imitaran-la-forma-de-crear-herramientas-de-los-humanos-primitivos.jpg" class="d-block w-100" alt="...">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
