@@ -96,7 +96,7 @@ layout: home
             <div class="card">
                 <img src="images/research-lines/R1-neuroAI.png" class="card-img-left" alt="Neuroinspired AI">
                 <div class="card-body">
-                    <h5 class="card-title">Neuroscience-inspired Artificial Intelligence</h5>
+                    <h5 class="card-title"><b>Neuroscience-inspired Artificial Intelligence</b></h5>
                     <p class="card-text">Developing AI systems inspired by the complexity and efficiency of the human brain to create adaptive and efficient algorithms for areas, such as healthcare, robotics, and agriculture</p>
                 </div>
             </div>
@@ -105,7 +105,7 @@ layout: home
             <div class="card">
                 <img src="images/research-lines/R2-robotlearning.png" class="card-img-left" alt="Robotic Learning">
                 <div class="card-body">
-                    <h5 class="card-title">Robotic Learning</h5>
+                    <h5 class="card-title"><b>Robotic Learning</b></h5>
                     <p class="card-text">Reinforcement Learning for Wearable Robotics. Integration of machine learning with robotics to develop personalized assistive devices, enhancing the quality of life for individuals with disabilities through improved mobility and independence.</p>
                 </div>
             </div>
@@ -114,7 +114,7 @@ layout: home
             <div class="card">
                 <img src="images/research-lines/R3-spikingcontrol.png" class="card-img-left" alt="Spiking Control">
                 <div class="card-body">
-                    <h5 class="card-title">Spiking Control</h5>
+                    <h5 class="card-title"><b>Spiking Control</b></h5>
                     <p class="card-text">Exploring the potential of spiking neural networks (SNNs) to create low-power-low-latency estimation and control algorithms for applications like autonomous vehicles, wearables, and neurotechnology</p>
                 </div>
             </div>
@@ -123,7 +123,7 @@ layout: home
             <div class="card">
                 <img src="images/research-lines/R5-AIF-iCUB.gif" class="card-img-left" alt="Computational Models of Body Perception">
                 <div class="card-body">
-                    <h5 class="card-title">Computational Models of Body Perception</h5>
+                    <h5 class="card-title"><b>Computational Models of Body Perception</b></h5>
                     <p class="card-text">Replicating and understanding human body perception through computational models, with applications in virtual reality, robotics, and healthcare.</p>
                 </div>
             </div>
@@ -132,7 +132,7 @@ layout: home
             <div class="card">
                 <img src="images/research-lines/R4-bodyperception.png" class="card-img-left" alt="Self-Perception and Synthetic Consciousness">
                 <div class="card-body">
-                    <h5 class="card-title">Self-Perception and Synthetic Consciousness</h5>
+                    <h5 class="card-title"><b>Self-Perception and Synthetic Consciousness</b></h5>
                     <p class="card-text">Exploring artificial consciousness and self-awareness in machines to create intelligent systems that understand human emotions and intentions, bridging the gap between artificial and biological intelligence.</p>
                 </div>
             </div>
