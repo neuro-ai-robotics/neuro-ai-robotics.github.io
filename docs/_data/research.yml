@@ -1,9 +1,9 @@
-- title: "Modular-integrative modeling: a new framework for building brain models that blend biological realism and functional performance"
-  authors: "Mario Senden, Sacha J van Albada, Giovanni Pezzulo, Egidio Falotico, Ibrahim Hashim, Alexander Kroner, Anno C Kurth, Pablo Lanillos, Vaishnavi Narayanan, Cyriel Pennartz, Mihai A Petrovici, Lea Steffen, Tonio Weidler, Rainer Goebel"
+- title: "METATOOL project"
+  authors: ""
   year: 2024
-  conference: ""
-  abstract: "This Perspective presents the Modular-Integrative Modeling approach, a novel framework in neuroscience for developing brain models that blend biological realism with functional performance to provide a holistic view on brain function in interaction with the body and environment.."
-  link: "https://academic.oup.com/nsr/article/11/5/nwad318/7485852"
-  image: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/11/5/10.1093_nsr_nwad318/10/m_nwad318fig1.jpeg?Expires=1717666930&Signature=E-9vUILjqu0f-7k4iyWx4U~Xjyc8~IOhwGVj6quW9~1bw8Kr2V7IgKh30zHcZGusbHFfYEUw1kRoz0zNf4sG7~nZ~BQWmg92vc~FZ6fzXNQbbNdf5atabIWGh7GraQAvh5FhF-IaQSF1ywTa7JNOqa1eT3SySN01c-9qdbiwAm3-cHkpWJ9KbI5GWl-1P20Xo4yf441d1t1wUXn5YNA7lPdvkxlvZy2-TeToJcAAGln1NUQLizW6FBBRYamT8iFv~~jIXNLkTU5e3zFAVQ9g5lJXPICN4dyeLfXCcz7oH1d54sG1l-oWeEa25UNX1XKBkOOHf32KNAgkaBP~6ohB9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-  topics: ["Human Brain Computing", "Brain-inspired Intelligence"]
+  conference: "EIC PATHFINDER CHALLENGE"
+  abstract: "Robots that invent tools. METATOOL A metapredictive model of synthetic awareness for enabling tool invention"
+  link: "https://www.metatool-project.eu/"
+  image: "https://static.wixstatic.com/media/9bcff9_300500694e684671a08e3f37d52faea8~mv2.png/v1/fill/w_541,h_607,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9bcff9_300500694e684671a08e3f37d52faea8~mv2.png"
+  topics: ["Brain-inspired Intelligence", "Robotics"]
 
