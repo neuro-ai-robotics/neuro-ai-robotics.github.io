@@ -101,7 +101,7 @@ permalink: /research/
         <div class="content">
             <p class="authors">{{ research.authors }} - <span class="year">{{ research.year }}</span></p>
             <p><strong>Abstract:</strong> {{ research.abstract }}</p>
-            <a href="{{ research.link }}">Read the paper</a>
+            <a href="{{ research.link }}">Link</a>
             <p><strong>Topics:</strong> {{ research.topics | join: ", " }}</p>
         </div>
     </div>
