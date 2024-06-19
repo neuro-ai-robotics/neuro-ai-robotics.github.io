@@ -121,7 +121,7 @@ layout: home
         </div>
         <div class="col-md-6">
             <div class="card">
-                <img src="images/research-lines/empty.jpg" class="card-img-left" alt="Computational Models of Body Perception">
+                <img src="images/research-lines/R5-AIF-iCUB.gif" class="card-img-left" alt="Computational Models of Body Perception">
                 <div class="card-body">
                     <h5 class="card-title">Computational Models of Body Perception</h5>
                     <p class="card-text">Replicating and understanding human body perception through computational models, with applications in virtual reality, robotics, and healthcare.</p>
