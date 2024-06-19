@@ -142,6 +142,8 @@ layout: home
 
 <br />
 
+<div class="container">
+    <h2 class="text-center">Group pics</h2>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -163,6 +165,7 @@ layout: home
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
+</div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
