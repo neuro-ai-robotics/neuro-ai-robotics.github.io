@@ -16,5 +16,14 @@
   image: "https://static.wixstatic.com/media/9bcff9_300500694e684671a08e3f37d52faea8~mv2.png/v1/fill/w_541,h_607,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9bcff9_300500694e684671a08e3f37d52faea8~mv2.png"
   topics: ["Brain-inspired Intelligence", "Robotics"]
 
+- title: "SPIKEFERENCE project"
+  authors: "PI: Pablo Lanillos & Serge Thill - HUMAN BRAIN PROJECT SGA2"
+  year: 2021
+  conference: "EU HUMAN BRAIN PROJECT SGA2"
+  abstract: "Spike-driven deep active inference for sequential goal behaviors"
+  link: "https://spikeference.eu/"
+  image: "https://spikeference.eu/wp-content/uploads/2021/11/spikeference_banner_color-300x36.png"
+  topics: ["Brain-inspired Intelligence", "Robotics", "Spiking Neural Networks"]
+
 
 
