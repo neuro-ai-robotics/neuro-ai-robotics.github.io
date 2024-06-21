@@ -82,13 +82,13 @@ permalink: /research/
     }
 </style>
 
-<!--- 
+<!-- 
 <div id="filter-bar">
   <button class="filter-btn" onclick="filterResearch('all')">Show all</button>
   <button class="filter-btn" onclick="filterResearch('Human Brain Computing')">Human Brain Computing</button>
-  <button class="filter-btn" onclick="filterResearch('Brain-inspired Intelligence')">Brain-inspired Intelligence</button>
-  <!-- add other buttons for more topics -->
-</div> --->
+  <button class="filter-btn" onclick="filterResearch('Brain-inspired Intelligence')">Brain-inspired Intelligence</button>  
+</div> 
+-->
 
 <div class="research-container">
   {% for research in site.data.research %}
