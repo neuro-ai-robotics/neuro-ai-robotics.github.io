@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications Table
-permalink: /publications-table
+permalink: /publications/table
 ---
 
 Publications in which the NAIR group has been involved:
