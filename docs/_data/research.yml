@@ -13,7 +13,7 @@
   conference: "EIC PATHFINDER CHALLENGE"
   abstract: "Robots that invent tools. METATOOL A metapredictive model of synthetic awareness for enabling tool invention"
   link: "https://www.metatool-project.eu/"
-  image: "https://static.wixstatic.com/media/9bcff9_300500694e684671a08e3f37d52faea8~mv2.png/v1/fill/w_541,h_607,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9bcff9_300500694e684671a08e3f37d52faea8~mv2.png"
+  image: "../images/research-projects/P-metatool.png"
   topics: ["Brain-inspired Intelligence", "Robotics"]
 
 - title: "SPIKEFERENCE project"
