@@ -17,9 +17,10 @@ permalink: /research/
         border: 2px solid #d0d0d0; /* Light gray border */
         color: #333; /* Dark gray text */
         padding: 8px 16px;
-        margin-right: 8px;
+        margin: 8px 4px; /* Adds spacing around buttons */
         cursor: pointer;
         font-size: 14px;
+        display: inline-block;
     }
 
     .filter-btn:hover {
@@ -36,12 +37,7 @@ permalink: /research/
         margin-bottom: 20px;
         border-radius: 8px;
         display: flex;
-        flex-direction: column; /* Stack rows vertically */
-    }
-
-    .title-row {
-        display: flex;
-        width: 100%;
+        flex-direction: row; /* Arrange rows horizontally */
     }
 
     .research-entry img {
@@ -52,16 +48,16 @@ permalink: /research/
         flex-shrink: 0; /* Prevent image from shrinking */
     }
 
-    .title-container {
-        width: 66%; /* Title takes up 66% of the width */
-        display: flex;
-        align-items: center; /* Center align title vertically */
-    }
-
-    .research-entry .content {
-        margin-top: 20px; /* Add some space between title row and content */
+    .content-container {
+        width: 66%; /* Content takes up 66% of the width */
         display: flex;
         flex-direction: column; /* Stack items vertically */
+    }
+
+    .content-container .title {
+        display: flex;
+        align-items: center; /* Center align title vertically */
+        margin-bottom: 10px;
     }
 
     .content h3 {
@@ -82,28 +78,36 @@ permalink: /research/
     }
 </style>
 
-<!-- 
 <div id="filter-bar">
   <button class="filter-btn" onclick="filterResearch('all')">Show all</button>
-  <button class="filter-btn" onclick="filterResearch('Human Brain Computing')">Human Brain Computing</button>
-  <button class="filter-btn" onclick="filterResearch('Brain-inspired Intelligence')">Brain-inspired Intelligence</button>  
-</div> 
--->
+  {% assign all_topics = "" %}
+  {% for research in site.data.research %}
+    {% assign topics = research.topics | join: "," | remove: "[" | remove: "]" | remove: '"' %}
+    {% assign all_topics = all_topics | append: topics | append: "," %}
+  {% endfor %}
+  {% assign all_topics = all_topics | split: "," | uniq | sort %}
+  {% for topic in all_topics %}
+    {% assign topic = topic | strip %}
+    {% if topic != "" %}
+      <button class="filter-btn" onclick="filterResearch('{{ topic | escape }}')">{{ topic }}</button>
+    {% endif %}
+  {% endfor %}
+</div>
 
 <div class="research-container">
   {% for research in site.data.research %}
     <div class="research-entry" data-topics="{{ research.topics | join: ', ' }}">
-        <div class="title-row">
-            <img src="{{ research.image }}" alt="Image for {{ research.title }}">
-            <div class="title-container">
+        <img src="{{ research.image }}" alt="Image for {{ research.title }}">
+        <div class="content-container">
+            <div class="title">
                 <h3>{{ research.title }}</h3>
             </div>
-        </div>
-        <div class="content">
-            <p class="authors">{{ research.authors }} - <span class="year">{{ research.year }}</span></p>
-            <p><strong>Abstract:</strong> {{ research.abstract }}</p>
-            <a href="{{ research.link }}">Link</a>
-            <p><strong>Topics:</strong> {{ research.topics | join: ", " }}</p>
+            <div class="content">
+                <p class="authors">{{ research.authors }} - <span class="year">{{ research.year }}</span></p>
+                <p><strong>Abstract:</strong> {{ research.abstract }}</p>
+                <a href="{{ research.link }}">Link</a>
+                <p><strong>Topics:</strong> {{ research.topics | join: ", " }}</p>
+            </div>
         </div>
     </div>
   {% endfor %}
@@ -121,4 +125,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-[Go to all publications](/publications/table/)
+[Go to all publications]({{ site.baseurl }}/publications/table/)
