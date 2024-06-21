@@ -4,7 +4,7 @@
   conference: "EIC PATHFINDER CHALLENGE"
   abstract: "Learning to control exoskeletons with reinforcement learning for movement pathologies"
   link: "-"
-  image: "images/research-projects/P-RLexo.png"
+  image: "../images/research-projects/P-RLexo.png"
   topics: ["Brain-inspired Intelligence", "Robotics", "Wereables", "Artificial Intelligence", "Rehabilitation"]
   
 - title: "METATOOL project"
@@ -22,7 +22,7 @@
   conference: "EU HUMAN BRAIN PROJECT SGA2"
   abstract: "Spike-driven deep active inference for sequential goal behaviors"
   link: "https://spikeference.eu/"
-  image: "images/research-projects/P-spikeference.png"
+  image: "../images/research-projects/P-spikeference.png"
   topics: ["Brain-inspired Intelligence", "Robotics", "Spiking Neural Networks"]
 
 
@@ -32,7 +32,7 @@
   conference: "German Research Foundation (DFG) Priority program SPP Active Self"
   abstract: "Spike-driven deep active inference for sequential goal behaviors"
   link: "-"
-  image: "images/research-projects/P-deepself.png"
+  image: "../images/research-projects/P-deepself.png"
   topics: ["Brain-inspired Intelligence", "Cognitive Science", "Deep Learning", "Agency", "Self"]
 
 
