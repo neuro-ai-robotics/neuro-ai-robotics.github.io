@@ -125,4 +125,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-[Go to all publications]({{ "/publications.md" | relative_url }})
+[Go to all publications]({{ "/publications" | relative_url }})
