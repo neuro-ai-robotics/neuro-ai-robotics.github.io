@@ -123,6 +123,28 @@ Here is the list of our talented researchers:
 {% endfor %}
 </div>
 
+## Master and Bachelor students:
+<div class="columns-container">
+{% for student in site.data.research_team.master %}
+<div class="column">
+  <div class="researcher-container">
+    <img src="{{ student.image }}" alt="{{ student.name }}">
+    <p><b>{{ student.name }}</b>. {{ student.description }} [{{ student.institution }}]</p>
+  </div>
+  <div class="researcher-links">
+    {% for link in student.links %}
+      {% if link.url and link.url != "" %}
+        <a href="{{ link.url }}">
+          <img src="{{ link.icon }}" alt="Link" style="width:20px;height:20px;display:inline-block;">
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
+
+
+
 ## Former researchers:
 <div class="columns-container">
 {% for student in site.data.research_team.former %}
