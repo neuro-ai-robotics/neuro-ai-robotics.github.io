@@ -10,7 +10,7 @@ permalink: /members/
       flex-direction: column;
       align-items: center;
       text-align: center;
-      margin: 20px;
+      margin: 10px;
   }
 
   .columns-container {
@@ -22,17 +22,17 @@ permalink: /members/
   .column {
       flex: 1 1 calc(33.333% - 40px);
       box-sizing: border-box;
-      margin: 20px;
+      margin: 10px;
       display: flex;
       flex-direction: column;
       align-items: center;
-      min-width: 100px;
+      min-width: 150px;
   }
 
   .researcher-container img {
       width: 100%;
-      max-width: 300px;
-      height: 300px;
+      max-width: 200px;
+      height: 200px;
       object-fit: cover;
       border-radius: 15px;
       margin-bottom: 10px;
