@@ -33,7 +33,7 @@ postdocs:
 phd_students:
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
-    description: Master in Biomedic Engineering at Universidad Politécnica de Madrid. Researcher in human gait and RL applied to robotic exoskeletons. He has worked in Marsibionics and international projects (QUADIR, PUILPOS, FRailAlert).
+    description: Master in Biomedic Engineering at Universidad Politécnica de Madrid. Researcher in human gait and RL applied to exoskeletons. Worked in Marsibionics and international projects (QUADIR, PUILPOS, FRailAlert).
     institution: CSIC
     links:
       - url: 
