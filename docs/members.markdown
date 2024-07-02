@@ -123,7 +123,7 @@ Here is the list of our talented researchers:
 {% endfor %}
 </div>
 
-## Master students:
+## Current master students:
 <div class="columns-container">
 {% for student in site.data.research_team.master %}
 <div class="column">
