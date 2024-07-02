@@ -91,6 +91,24 @@ phd_students:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+
+master:
+  - name: André Rodrigues Urbano
+    image: /images/research-team/andre-rodrigues.jpg
+    description: (Co-supervision) Master in Neurophysics. "Spiking Active Inference" 
+    institution: Donders Institute
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+        
 former:
   - name: Ruben van Bergen
     image: /images/research-team/ruben-bergen.jpg
