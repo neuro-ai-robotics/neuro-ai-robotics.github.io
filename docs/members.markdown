@@ -26,7 +26,7 @@ permalink: /members/
       display: flex;
       flex-direction: column;
       align-items: center;
-      min-width: 250px;
+      min-width: 100px;
   }
 
   .researcher-container img {
