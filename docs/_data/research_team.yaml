@@ -30,21 +30,6 @@ postdocs:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-  - name: Alper Yeğenoğlu
-    image: /images/research-team/alper-yegenoglu.png
-    description: PhD in Computer Science. Postdoc at Deepself.de project at CSIC.
-    institution: CSIC
-    links:
-      - url: 
-        icon: /icons/x.png
-      - url: 
-        icon: /icons/linkedin.png
-      - url: https://scholar.google.de/citations?hl=de&user=ZiBpJLoAAAAJ&view_op=list_works&sortby=pubdate
-        icon: /icons/google-scholar.png
-      - url: https://alperyeg.github.io/
-        icon: /icons/personal-web-page.png
-      - url: https://orcid.org/0000-0001-8869-215X
-        icon: /icons/orcid.png
 phd_students:
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
