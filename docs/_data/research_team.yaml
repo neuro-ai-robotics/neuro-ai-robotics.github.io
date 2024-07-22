@@ -138,4 +138,19 @@ former:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+  - name: Nina Alisa-Hinz
+    image: /images/research-team/nina-hinz.jpg
+    description: Master project. "Modelling body-illusions in robots".  
+    institution: Technical University of Munich 
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
         
