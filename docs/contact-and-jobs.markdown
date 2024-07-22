@@ -68,6 +68,9 @@ permalink: /contact-and-jobs/
     {% if job.profile %}
     <p>Profile: {{ job.profile }}</p>
     {% endif %}
+    {% if job.responsabilities %}
+    <p>Responsabilities: {{ job.responsabilities }}</p>
+    {% endif %}
     {% if job.conditions %}
     <p>Conditions: {{ job.profile }}</p>
     {% endif %}
