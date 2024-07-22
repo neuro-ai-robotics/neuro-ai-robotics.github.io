@@ -61,7 +61,7 @@ permalink: /members/
   }
 </style>
 
-Here is the list of our talented researchers:
+Here is the list of our talented researchers (Feel free to reach out to any of them for more information about our research projects):
 
 ## Principal Investigators:
 <div class="columns-container">
@@ -167,4 +167,4 @@ Here is the list of our talented researchers:
 {% endfor %}
 </div>
 
-Feel free to reach out to any of them for more information about our research projects.
+
