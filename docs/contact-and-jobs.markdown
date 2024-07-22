@@ -65,6 +65,12 @@ permalink: /contact-and-jobs/
     <h3>{{ job.title }}</h3>
     <p>{{ job.description }}</p>
     <p class="date">Posted on: {{ job.date }}</p>
+    {% if job.profile %}
+    <p>Profile: {{ job.profile }}</p>
+    {% endif %}
+    {% if job.conditions %}
+    <p>Conditions: {{ job.profile }}</p>
+    {% endif %}
     {% if job.link %}
     <p><a href="{{ job.link }}" target="_blank">Learn more and apply</a></p>
     {% endif %}
