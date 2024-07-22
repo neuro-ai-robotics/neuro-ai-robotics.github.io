@@ -123,10 +123,10 @@ former:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-  - name: Mahyar Shahsavari
-    image: /images/research-team/mahyar-shahsavari.png
-    description: (Co-supervision) Postdoc in SPIKEFERENCE project at Donders Institute. "Neuromorphic control".  
-    institution: Donders Institute  
+  - name: Cansu Sancaktar
+    image: /images/research-team/cansu-sancaktar.jpg
+    description: Master project. "Deep Active Inference".  
+    institution: Technical University of Munich 
     links:
       - url: 
         icon: /icons/x.png
