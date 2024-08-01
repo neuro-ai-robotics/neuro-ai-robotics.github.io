@@ -75,7 +75,7 @@ Feel free to reach us at the following email (use "VcqRXuweBUyvcMP" code as subj
 {% endfor %}
 
 
-Where to find us:
+## Where to find us:
 
 Instituto Cajal CSIC<br>
 Avda. Doctor Arce, 37<br>
