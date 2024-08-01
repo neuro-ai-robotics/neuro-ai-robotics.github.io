@@ -58,6 +58,9 @@ permalink: /contact-and-jobs/
     }
 </style>
 
+## Contact us
+Feel free to reach us at the following email (use "VcqRXuweBUyvcMP" code as subject, please): p [dot] lanillos [at] csic [dot] es
+
 ## Job Opportunities
 
 {% for job in site.data.job_postings %}
@@ -71,9 +74,6 @@ permalink: /contact-and-jobs/
 </div>
 {% endfor %}
 
-## Contact us
-
-Feel free to reach us at the following email (use "VcqRXuweBUyvcMP" code as subject, please): p [dot] lanillos [at] csic [dot] es
 
 Where to find us:
 
