@@ -123,7 +123,7 @@ Here is the list of our talented researchers (Feel free to reach out to any of t
 {% endfor %}
 </div>
 
-## Current Master's and intern students:
+## Master's and intern students:
 <div class="columns-container">
 {% for student in site.data.research_team.master %}
 <div class="column">
