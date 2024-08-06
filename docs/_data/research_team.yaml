@@ -92,6 +92,21 @@ phd_students:
       - url: 
         icon: /icons/orcid.png
 master:
+- name: Lucía López 
+    image: 
+    description: JAE intro. (intern) RL for exoskeletons 
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
   - name: André Rodrigues Urbano
     image: /images/research-team/andre-rodrigues.jpg
     description: (Co-supervision) Master in Neurophysics. "Spiking Active Inference" 
