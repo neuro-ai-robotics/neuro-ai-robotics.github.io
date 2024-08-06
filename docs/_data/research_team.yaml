@@ -92,7 +92,7 @@ phd_students:
       - url: 
         icon: /icons/orcid.png
 master:
-- name: Lucía López 
+  - name: Lucía López 
     image:  /images/research-team/no-image.png
     description: JAE intro. (intern) RL for exoskeletons 
     institution: CSIC
