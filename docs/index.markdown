@@ -112,7 +112,7 @@ layout: home
         </div>
         <div class="col-md-6">
             <div class="card">
-                <img src="images/research-lines/R3-spikingcontrol.png" class="card-img-left" alt="Spiking Control">
+                <img src="images/research-lines/R3-spikingcontrolcartpole.gif" class="card-img-left" alt="Spiking Control">
                 <div class="card-body">
                     <h5 class="card-title"><b>Spiking Control</b></h5>
                     <p class="card-text">Exploring the potential of spiking neural networks (SNNs) to create low-power-low-latency estimation and control algorithms for applications like autonomous vehicles, wearables, and neurotechnology</p>
