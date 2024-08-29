@@ -152,12 +152,10 @@ layout: home
     <div class="carousel-inner">
         {% for files in site.data.files %}
         <div class="carousel-item active">
-            <img src="/images/home-slider/{{files.file}}" class="d-block w-100" alt="...">
-            <p>{{files.caption}}</p>
+            <img src="/images/home-slider/{{ files.file }}" class="d-block w-100" alt="...">
+            <p>{{ files.caption }}</p>
         </div>
-        <div class="carousel-item">
-            <img src="/images/home-slider/Robots-inventores-imitaran-la-forma-de-crear-herramientas-de-los-humanos-primitivos.jpg" class="d-block w-100" alt="...">
-        </div>
+        {% end for %}
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
