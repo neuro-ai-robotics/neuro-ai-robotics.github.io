@@ -151,7 +151,7 @@ layout: home
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="/images/home-slider/" class="d-block w-100" alt="{{ images.caption }}">            
+            <img src="/images/home-slider/Robots-inventores-imitaran-la-forma-de-crear-herramientas-de-los-humanos-primitivos.jpg" class="d-block w-100" alt="Metatool">            
         </div> 
         {% for images in site.data.images %}
         <div class="carousel-item">
