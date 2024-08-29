@@ -150,8 +150,11 @@ layout: home
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     </ol>
     <div class="carousel-inner">
-        {% for images in site.data.images %}
         <div class="carousel-item active">
+            <img src="/images/home-slider/" class="d-block w-100" alt="{{ images.caption }}">            
+        </div> 
+        {% for images in site.data.images %}
+        <div class="carousel-item">
             <img src="/images/home-slider/{{ images.file }}" class="d-block w-100" alt="{{ images.caption }}">            
         </div>        
         {% endfor %}       
