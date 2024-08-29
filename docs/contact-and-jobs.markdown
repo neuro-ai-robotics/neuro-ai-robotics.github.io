@@ -61,6 +61,15 @@ permalink: /contact-and-jobs/
 ## Contact us
 Feel free to reach us at the following email (use "VcqRXuweBUyvcMP" code as subject, please): p [dot] lanillos [at] csic [dot] es
 
+## Looking for a host?
+Contact us if your research idea fits the group and you would like to apply for a predoc or postdoc call, such as: 
+* <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">Marie Skłodowska-Curie Actions</a>
+* <a href="https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2023" target="_blank">Spanish Ramón y Cajal</a>
+* <a href="https://gestiona3.madrid.org/quadrivium/convocatorias/home/talento" target="_blank">Atracción de Talento Comunidad de Madrid</a>
+* <a href="https://www.fundacionareces.es/fundacionareces/es/programa-de-retonorno-del-talento/edicion-2024/" target="_blank">Retorno del Talento de la Fundación Ramón Areces</a>
+We will help you in the process.
+
+
 ## Job Opportunities
 
 {% for job in site.data.job_postings %}
