@@ -143,7 +143,7 @@ layout: home
 <br />
 
 <div class="container">
-    <h2 class="text-center">Group randomly selected pics</h2>
+    <h2 class="text-center">Group uniformly sampled pics</h2>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-bottom: 20px;">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
