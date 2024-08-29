@@ -150,8 +150,10 @@ layout: home
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     </ol>
     <div class="carousel-inner">
+        {% for files in site.data.files %}
         <div class="carousel-item active">
-            <img src="/images/home-slider/f.elconfidencial.com_original_42e_f46_45a_42ef4645abb3c89a61db4fd111641a44.jpg" class="d-block w-100" alt="...">
+            <img src="/images/home-slider/{{files.file}}" class="d-block w-100" alt="...">
+            <p>{{files.caption}}</p>
         </div>
         <div class="carousel-item">
             <img src="/images/home-slider/Robots-inventores-imitaran-la-forma-de-crear-herramientas-de-los-humanos-primitivos.jpg" class="d-block w-100" alt="...">
