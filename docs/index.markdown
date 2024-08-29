@@ -155,7 +155,7 @@ layout: home
             <img src="/images/home-slider/{{ files.file }}" class="d-block w-100" alt="...">
             <p>{{ files.caption }}</p>
         </div>
-        {% end for %}
+        {% endfor %}
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
