@@ -157,7 +157,7 @@ layout: home
         </div>        
         {% endfor %}
         <div class="carousel-item active">
-            <img src="/images/home-slider/lab-pic (1)" class="d-block w-100" alt="...">
+            <img src="/images/home-slider/Robots-inventores-imitaran-la-forma-de-crear-herramientas-de-los-humanos-primitivos.jpg" class="d-block w-100" alt="...">
             <p>test</p>
         </div>
     </div>
