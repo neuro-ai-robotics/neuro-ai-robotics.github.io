@@ -154,12 +154,12 @@ layout: home
         <div class="carousel-item active">
             <img src="/images/home-slider/{{ files.file }}" class="d-block w-100" alt="...">
             <p>{{ files.caption }}</p>
-        </div>
+        </div>        
+        {% endfor %}
         <div class="carousel-item active">
             <img src="/images/home-slider/lab-pic (1)" class="d-block w-100" alt="...">
             <p>test</p>
         </div>
-        {% endfor %}
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
