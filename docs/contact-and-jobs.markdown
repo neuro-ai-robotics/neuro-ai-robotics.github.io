@@ -62,7 +62,7 @@ permalink: /contact-and-jobs/
 Feel free to reach us at the following email (use "VcqRXuweBUyvcMP" code as subject, please): p [dot] lanillos [at] csic [dot] es
 
 ## Looking for a host?
-- Information for foreing staff: https://www.csic.es/en/international/landing-at-csic
+- Information for foreing staff: <a href="https://www.csic.es/en/international/landing-at-csic" target="_blank">Landing at CSIC</a>
 
 Contact us if your research idea fits the group and you would like to apply for a predoc or postdoc call, such as: 
 * <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">Marie Skłodowska-Curie Actions</a>
