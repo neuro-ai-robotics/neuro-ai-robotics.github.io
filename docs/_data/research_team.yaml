@@ -30,10 +30,27 @@ postdocs:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+
+  - name: Alma V. Lago
+    image: /images/research-team/alma-lago.jpg
+    description:  Senior researcher at DeepSelf project. MSc in Computer Vision from Vigo University.
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url: 
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+      
 phd_students:
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
-    description: Master in Biomedic Engineering at Universidad Politécnica de Madrid. Researcher in human gait and RL applied to robotic exoskeletons. He has worked in Marsibionics and in multiple Spanish and EU projects at Universidad de Alcalá (QUADIR, PUILPOS, FRailAlert).
+    description: PhD candidate. MSc in Biomedic Engineering at Universidad Politécnica de Madrid. Human gait and RL applied to robotic exoskeletons. He has worked in Marsibionics and in multiple Spanish and EU projects at Universidad de Alcalá.
     institution: CSIC
     links:
       - url: 
@@ -48,7 +65,7 @@ phd_students:
         icon: /icons/orcid.png
   - name: Abián Torres
     image: /images/research-team/abian-torres.jpg
-    description: Master in Artificial Intelligence at Universidad Internacional de la Rioja. Researcher in applied machine learning. He is currently developing Deep Active Inference algorithms for robotics.
+    description: PhD candidate in METATOOL project. MSc in Artificial Intelligence at Universidad Internacional de la Rioja. Applied machine learning. He is currently developing Deep Active Inference algorithms for robotics.
     institution: CSIC
     links:
       - url: https://twitter.com/_abiantorres
