@@ -17,7 +17,7 @@ principal_researchers:
 postdocs:
   - name: Ajith Anil Meera
     image: /images/research-team/ajith-meera.jpg
-    description: PhD in Robotics. Postdoc at EU Pathfinder challlenge METATOOL project (https://www.metatool-project.eu/) at Donders Institute.
+    description: Postdoc at EU Pathfinder challlenge METATOOL project (https://www.metatool-project.eu/) at Donders Institute. PhD in Robotics from TU Delft.
     institution: Donders Institute
     links:
       - url: 
@@ -50,7 +50,7 @@ postdocs:
 phd_students:
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
-    description: PhD candidate. MSc in Biomedic Engineering at Universidad Politécnica de Madrid. Human gait and RL applied to robotic exoskeletons. He has worked in Marsibionics and in multiple Spanish and EU projects at Universidad de Alcalá.
+    description: PhD candidate in Human gait and RL for robotic exoskeleton. MSc in Biomedic Engineering at Universidad Politécnica de Madrid. Worked in Marsibionics and in multiple Spanish and EU projects at Universidad de Alcalá.
     institution: CSIC
     links:
       - url: 
@@ -80,7 +80,7 @@ phd_students:
         icon: /icons/orcid.png
   - name: Justus Hübotter
     image: /images/research-team/justus-huebotter.jpg
-    description: (Co-supervision). Master in AI and Neuroscience. PhD candidate at Donders Institute in "Spiking Neural Networks Control".
+    description: (Co-supervision). PhD candidate at Donders Institute in "Spiking Neural Networks Control". MSc in AI and Neuroscience. 
     institution: Donders Institute
     links:
       - url: 
@@ -95,7 +95,7 @@ phd_students:
         icon: /icons/orcid.png
   - name: Filip Novicky
     image: /images/research-team/filip-novicky.png
-    description: (Co-supervision) Master in Neuroscience. PhD candidate in EU Doctoral Network "Serotonin and Beyond".
+    description: (Co-supervision) PhD candidate in EU Doctoral Network "Serotonin and Beyond". MSc in Neuroscience. 
     institution: Donders Institute
     links:
       - url: 
@@ -111,7 +111,7 @@ phd_students:
 master:
   - name: Lucía López 
     image:  /images/research-team/lucia-lopez.jpg
-    description: JAE intro. (intern) RL for exoskeletons 
+    description: JAE intro. (intern) RL for exoskeletons. BSc in Industrial Engineering, Sevilla University. 
     institution: CSIC
     links:
       - url: 
@@ -126,7 +126,7 @@ master:
         icon: /icons/orcid.png
   - name: André Rodrigues Urbano
     image: /images/research-team/andre-rodrigues.jpg
-    description: (Co-supervision) Master in Neurophysics. "Spiking Active Inference" 
+    description: (Co-supervision) MSc in Neurophysics. "Spiking Active Inference" 
     institution: Donders Institute
     links:
       - url: 
