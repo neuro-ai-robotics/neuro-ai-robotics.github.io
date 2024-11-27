@@ -65,7 +65,7 @@ phd_students:
         icon: /icons/orcid.png
   - name: Abián Torres
     image: /images/research-team/abian-torres.jpg
-    description: PhD candidate in METATOOL project. MSc in Artificial Intelligence at Universidad Internacional de la Rioja. Applied machine learning. He is currently developing Deep Active Inference algorithms for robotics.
+    description: PhD candidate in METATOOL project. MSc in Artificial Intelligence at Universidad Internacional de la Rioja. Applied machine learning, developing Deep Active Inference algorithms for robotics.
     institution: CSIC
     links:
       - url: https://twitter.com/_abiantorres
