@@ -17,7 +17,7 @@ principal_researchers:
 postdocs:
   - name: Ajith Anil Meera
     image: /images/research-team/ajith-meera.jpg
-    description: Postdoc at EU Pathfinder challlenge METATOOL project (https://www.metatool-project.eu/) at Donders Institute. PhD in Robotics from TU Delft.
+    description: Postdoc at EU Pathfinder challlenge METATOOL project (https://www.metatool-project.eu/). PhD in Robotics from TU Delft.
     institution: Donders Institute
     links:
       - url: 
