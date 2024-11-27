@@ -50,7 +50,7 @@ postdocs:
 phd_students:
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
-    description: PhD candidate in Human gait and RL for robotic exoskeleton. MSc in Biomedic Engineering at Universidad Politécnica de Madrid. Worked in Marsibionics and in multiple Spanish and EU projects at Universidad de Alcalá.
+    description: PhD candidate in Human gait and RL for robotic exoskeleton. MSc in Biomedic Engineering at Universidad Politécnica de Madrid.
     institution: CSIC
     links:
       - url: 
