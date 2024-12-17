@@ -96,7 +96,7 @@ layout: home
 
 <div class="container">
  <img src="images/home-slider/nair-christmas2024.jpg" class="" alt="NAIR group Christmas 2024">
- <p><strong>NAIR GROUP 2024</strong> (Christmas Mode)</p>
+ <p align="center"><strong>NAIR GROUP 2024</strong> (Christmas Mode)</p>
 </div> 
 <div class="text-content">
  <p><strong>Experience:</strong> Our research group has over ten years of experience in brain-inspired machine learning models for robot perception and action. We have been pioneers in successfully deploying neuroscience-inspired models (e.g., predictive coding) on humanoid robots, as well as replicating experiments of human perception on robotic systems (e.g., rubber hand illusion). We are internationally recognized for our active inference approach to robotics, which is a framework inspired by neuroscience that describes the brain as a Bayesian approximate inference machine. Currently, we are investigating new theoretical applied probabilistic models in the following topics:</p>
