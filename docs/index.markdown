@@ -80,15 +80,18 @@ layout: home
     .card-title {
         margin-bottom: 15px;
     }
+
 </style>
 
 <div class="text-content">
     <img src="images/NAIRlogo.png" class="logo" alt="Neuroinspired AI">
     <p><strong>The <em>Neuroscience-inspired Artificial Intelligence and Robotics (NAIR)</em> research group belongs to the <a href="https://www.csic.es/en/csic">Spanish National Research Council (CSIC)</a>, <a href="https://www.cinc.csic.es/">Cajal International Neuroscience Center (CINC)</a>.</strong> Our research <em>transforms our understanding of the brain into future technologies</em>. It aims to improve artificial intelligence and robotic systems by studying how humans perceive and interact with their bodies, while also uncovering the internal mechanisms of information processing in the brain. We develop novel algorithms for learning, estimation, and control of complex systems based on findings from neuroscience, and evaluate them on robotic platforms (humanoids, manipulators, exoskeletons). Our models are not only relevant to disciplines, such as computational neuroscience, robotics, and cognitive science, but also have practical applications in human-centered solutions such as healthcare, human-robot interaction, wearable robotics, and more. Our goal is to achieve human-like embodied intelligence in robots, <ins>enabling them to act and adapt to complex real-world interactions, which is one of the key challenges of this century</ins>.</p>
 
+<div class="container">
  <img src="images/home-slider/nair-christmas2024.jpg" class="" alt="NAIR group Christmas 2024">
  <p><strong>NAIR GROUP 2024</strong> (Christmas Mode)</p>
- 
+</div> 
+<div class="text-content">
  <p><strong>Experience:</strong> Our research group has over ten years of experience in brain-inspired machine learning models for robot perception and action. We have been pioneers in successfully deploying neuroscience-inspired models (e.g., predictive coding) on humanoid robots, as well as replicating experiments of human perception on robotic systems (e.g., rubber hand illusion). We are internationally recognized for our active inference approach to robotics, which is a framework inspired by neuroscience that describes the brain as a Bayesian approximate inference machine. Currently, we are investigating new theoretical applied probabilistic models in the following topics:</p>
 </div>
 
