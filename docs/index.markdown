@@ -151,7 +151,7 @@ layout: home
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="/images/home-slider/nair-christmas2024.jpg" class="d-block w-100" alt="Metatool">            
+            <img src="/images/home-slider/nair-christmas2024.jpg" class="d-block w-100" alt="Nair Christmas 2024">            
         </div> 
         {% for images in site.data.images %}
         <div class="carousel-item">
