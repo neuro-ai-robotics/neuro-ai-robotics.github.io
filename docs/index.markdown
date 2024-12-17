@@ -81,6 +81,11 @@ layout: home
         margin-bottom: 15px;
     }
 
+    .container img {
+      max-width: 60%;      
+      display: block;
+    }
+
 </style>
 
 <div class="text-content">
