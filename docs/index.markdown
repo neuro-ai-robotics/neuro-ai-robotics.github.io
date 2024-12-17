@@ -1,6 +1,5 @@
 ---
 layout: home
-classes: wide
 ---
 
 <link rel="stylesheet" href="css/bootstrap-carousel.css">
