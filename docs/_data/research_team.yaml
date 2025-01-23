@@ -15,6 +15,21 @@ principal_researchers:
       - url: https://orcid.org/0000-0001-9154-0798
         icon: /icons/orcid.png
 postdocs:
+  - name: David Rodriguez Cianca
+    image: /images/research-team/david-rodriguez.jpg
+    description: Senior postdoc in wearable robotics. PhD in Engineering Science from Vrije Universiteit Brussel.
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url: 
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
   - name: Ajith Anil Meera
     image: /images/research-team/ajith-meera.jpg
     description: Postdoc at EU Pathfinder challlenge METATOOL project (https://www.metatool-project.eu/). PhD in Robotics from TU Delft.
@@ -30,7 +45,6 @@ postdocs:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-
   - name: Alma V. Lago
     image: /images/research-team/alma-lago.jpg
     description:  Senior researcher at DeepSelf project. MSc in Computer Vision from Vigo University.
