@@ -62,6 +62,21 @@ postdocs:
         icon: /icons/orcid.png
       
 phd_students:
+  - name: André Rodrigues Urbano
+    image: /images/research-team/andre-rodrigues.jpg
+    description: PhD candidate in Spiking Control. MSc in Neurophysics, Radboud Universitity Nijmegen.
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
   - name: Andrés Chavarrías
     image: /images/research-team/andres-chavarrias.jpg
     description: PhD candidate in Human gait and RL for robotic exoskeleton. MSc in Biomedic Engineering at Universidad Politécnica de Madrid.
@@ -138,10 +153,10 @@ master:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-  - name: André Rodrigues Urbano
-    image: /images/research-team/andre-rodrigues.jpg
-    description: (Co-supervision) MSc in Neurophysics. "Spiking Active Inference" 
-    institution: Donders Institute
+  - name: Nuria Balbás 
+    image:  /images/research-team/nuria-balbas.png
+    description: Neuromusculoskeletal digital twins and data-driven prediction. BSc in Biomedical Engineering.   
+    institution: CSIC
     links:
       - url: 
         icon: /icons/x.png
