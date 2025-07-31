@@ -170,7 +170,7 @@ master:
         icon: /icons/orcid.png
    - name: Rena Wang 
     image:  /images/research-team/rena-mit.png
-    description: Diffusion models for musculoskeletal activations. 1st year Mathematics MIT.   
+    description: Diffusion models for musculoskeletal behaviours. 1st year Mathematics MIT.   
     institution: CSIC
     links:
       - url: 
