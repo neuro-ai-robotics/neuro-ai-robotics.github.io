@@ -153,9 +153,9 @@ master:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-  - name: Nuria Balbás 
-    image:  /images/research-team/nuria-balbas.png
-    description: Neuromusculoskeletal digital twins and data-driven prediction. BSc in Biomedical Engineering.   
+- name: Paula Ferreira Gonzalez 
+    image:  /images/research-team/paula-g.jpg
+    description: Embodiment in WRs. BSc in Biomedical Engineering. 
     institution: CSIC
     links:
       - url: 
@@ -168,9 +168,9 @@ master:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-  - name: Rena Wang 
-    image:  /images/research-team/rena-mit.jpg
-    description: Diffusion models for musculoskeletal behaviours. 1st year Mathematics MIT.   
+- name: Adriana Nieto Carrasco 
+    image:  /images/research-team/adriana-n.jpg
+    description: Tremor digital twins and AI. BSc in Biomedical Engineering. 
     institution: CSIC
     links:
       - url: 
@@ -183,6 +183,7 @@ master:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+  
 former:
   - name: Ruben van Bergen
     image: /images/research-team/ruben-bergen.jpg
@@ -229,4 +230,33 @@ former:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-        
+- name: Nuria Balbás 
+    image:  /images/research-team/nuria-balbas.png
+    description: Neuromusculoskeletal digital twins and data-driven prediction. BSc in Biomedical Engineering.   
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+  - name: Rena Wang 
+    image:  /images/research-team/rena-mit.jpg
+    description: Diffusion models for musculoskeletal behaviours. 1st year Mathematics MIT.   
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
