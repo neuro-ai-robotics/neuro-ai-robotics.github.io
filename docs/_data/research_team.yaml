@@ -1,7 +1,7 @@
 principal_researchers:
   - name: Pablo Lanillos
     image: /images/research-team/pablo-lanillos.jpg
-    description: (PI and Ramón y Cajal Fellow) in neuroscience-inspired AI and robotics. Interested in understanding the brain-body computational mechanisms to develop the technology of the future. Scientific coordinator of international projects (Spikeference.eu, Metatool.eu and Deepself.de).
+    description: (Permanent Staff) Leader of the Neuro AI and robotics group. Interested in understanding the brain-body computational mechanisms to develop the technology of the future. Scientific coordinator of international projects (Spikeference.eu, Metatool.eu and Deepself.de).
     institution: CSIC
     links:
       - url: https://twitter.com/PLanillos
@@ -143,6 +143,21 @@ master:
   - name: Lucía López 
     image:  /images/research-team/lucia-lopez.jpg
     description: JAE intro. (intern) RL for exoskeletons. BSc in Industrial Engineering, Sevilla University. 
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+  - name: Paula Ferreira Gonzalez 
+    image:  /images/research-team/paula-g.jpg
+    description: Embodiment in WRs. BSc in Biomedical Engineering. 
     institution: CSIC
     links:
       - url: 
