@@ -60,7 +60,6 @@ postdocs:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-      
 phd_students:
   - name: André Rodrigues Urbano
     image: /images/research-team/andre-rodrigues.jpg
@@ -153,37 +152,6 @@ master:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
-- name: Paula Ferreira Gonzalez 
-    image:  /images/research-team/paula-g.jpg
-    description: Embodiment in WRs. BSc in Biomedical Engineering. 
-    institution: CSIC
-    links:
-      - url: 
-        icon: /icons/x.png
-      - url:
-        icon: /icons/linkedin.png
-      - url: 
-        icon: /icons/google-scholar.png
-      - url: 
-        icon: /icons/personal-web-page.png
-      - url: 
-        icon: /icons/orcid.png
-- name: Adriana Nieto Carrasco 
-    image:  /images/research-team/adriana-n.jpg
-    description: Tremor digital twins and AI. BSc in Biomedical Engineering. 
-    institution: CSIC
-    links:
-      - url: 
-        icon: /icons/x.png
-      - url:
-        icon: /icons/linkedin.png
-      - url: 
-        icon: /icons/google-scholar.png
-      - url: 
-        icon: /icons/personal-web-page.png
-      - url: 
-        icon: /icons/orcid.png
-  
 former:
   - name: Ruben van Bergen
     image: /images/research-team/ruben-bergen.jpg
