@@ -170,6 +170,21 @@ master:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+  - name: Rafael Ortega Lopez-Sanchez
+    image:  /images/research-team/rafael-o.jpg
+    description: Soft exoskeleton IMUs posture estimation. BSc in Biomedical Engineering. 
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
   - name: Lucía López 
     image:  /images/research-team/lucia-lopez.jpg
     description: JAE intro. (intern) RL for exoskeletons. BSc in Industrial Engineering, Sevilla University. 
