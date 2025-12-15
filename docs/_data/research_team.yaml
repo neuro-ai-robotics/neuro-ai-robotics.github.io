@@ -139,22 +139,7 @@ phd_students:
       - url: 
         icon: /icons/orcid.png
         
-master:
-  - name: Lucía López 
-    image:  /images/research-team/lucia-lopez.jpg
-    description: JAE intro. (intern) RL for exoskeletons. BSc in Industrial Engineering, Sevilla University. 
-    institution: CSIC
-    links:
-      - url: 
-        icon: /icons/x.png
-      - url:
-        icon: /icons/linkedin.png
-      - url: 
-        icon: /icons/google-scholar.png
-      - url: 
-        icon: /icons/personal-web-page.png
-      - url: 
-        icon: /icons/orcid.png
+master:  
   - name: Paula Ferreira Gonzalez 
     image:  /images/research-team/paula-f.jpg
     description: Embodiment in WRs. BSc in Biomedical Engineering. 
@@ -173,6 +158,21 @@ master:
   - name: Adriana Nieto Carrasco 
     image:  /images/research-team/adriana-n.jpg
     description: Tremor digital twins and AI. BSc in Biomedical Engineering. 
+    institution: CSIC
+    links:
+      - url: 
+        icon: /icons/x.png
+      - url:
+        icon: /icons/linkedin.png
+      - url: 
+        icon: /icons/google-scholar.png
+      - url: 
+        icon: /icons/personal-web-page.png
+      - url: 
+        icon: /icons/orcid.png
+  - name: Lucía López 
+    image:  /images/research-team/lucia-lopez.jpg
+    description: JAE intro. (intern) RL for exoskeletons. BSc in Industrial Engineering, Sevilla University. 
     institution: CSIC
     links:
       - url: 
