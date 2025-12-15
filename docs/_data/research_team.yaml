@@ -14,6 +14,7 @@ principal_researchers:
         icon: /icons/personal-web-page.png
       - url: https://orcid.org/0000-0001-9154-0798
         icon: /icons/orcid.png
+        
 postdocs:
   - name: David Rodriguez Cianca
     image: /images/research-team/david-rodriguez.jpg
@@ -60,6 +61,7 @@ postdocs:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+        
 phd_students:
   - name: André Rodrigues Urbano
     image: /images/research-team/andre-rodrigues.jpg
@@ -136,6 +138,7 @@ phd_students:
         icon: /icons/personal-web-page.png
       - url: 
         icon: /icons/orcid.png
+        
 master:
   - name: Lucía López 
     image:  /images/research-team/lucia-lopez.jpg
@@ -187,36 +190,6 @@ former:
     image: /images/research-team/nina-hinz.jpg
     description: Master project. "Modelling body-illusions in robots".  
     institution: Technical University of Munich 
-    links:
-      - url: 
-        icon: /icons/x.png
-      - url:
-        icon: /icons/linkedin.png
-      - url: 
-        icon: /icons/google-scholar.png
-      - url: 
-        icon: /icons/personal-web-page.png
-      - url: 
-        icon: /icons/orcid.png
-- name: Nuria Balbás 
-    image:  /images/research-team/nuria-balbas.png
-    description: Neuromusculoskeletal digital twins and data-driven prediction. BSc in Biomedical Engineering.   
-    institution: CSIC
-    links:
-      - url: 
-        icon: /icons/x.png
-      - url:
-        icon: /icons/linkedin.png
-      - url: 
-        icon: /icons/google-scholar.png
-      - url: 
-        icon: /icons/personal-web-page.png
-      - url: 
-        icon: /icons/orcid.png
-  - name: Rena Wang 
-    image:  /images/research-team/rena-mit.jpg
-    description: Diffusion models for musculoskeletal behaviours. 1st year Mathematics MIT.   
-    institution: CSIC
     links:
       - url: 
         icon: /icons/x.png
