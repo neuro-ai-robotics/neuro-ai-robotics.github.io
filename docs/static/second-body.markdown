@@ -13,7 +13,8 @@ permalink: /projects/second-body/
 
 <h1>SECOND BODY PROJECT</h1>
 <h2>Neuroscience-inspired AI for personalized control of wearable robots</h2>
-[link MOMENTUM PROGRAM CSIC https://momentum.csic.es/en/]
+<a href="https://momentum.csic.es/en/" target="_blank">MOMENTUM PROGRAM CSIC</a>
+
 <p>Mobility problems are the common denominator of many diseases, neurological causes, and
 musculoskeletal conditions that affect hundreds of thousands of citizens each year. Being able
 to assist the mobility of these people is central to society and the healthcare system. The main
