@@ -3,7 +3,7 @@
   year: 2023
   conference: "Next Generation Momentum Program CSIC"
   abstract: "Learning to control exoskeletons with reinforcement learning for movement pathologies"
-  link: "projects/second-body.html"
+  link: "../projects/second-body.html"
   image: "../images/research-projects/second-body.png"
   topics: ["Brain-inspired Intelligence", "Robotics", "Wereables", "Artificial Intelligence"]
   
@@ -40,7 +40,7 @@
   year: 2021
   conference: "German Research Foundation (DFG) Priority program SPP Active Self"
   abstract: "Spike-driven deep active inference for sequential goal behaviors"
-  link: "-"
+  link: "https://gepris.dfg.de/gepris/projekt/467045002?language=en"
   image: "../images/research-projects/P-deepself.png"
   topics: ["Brain-inspired Intelligence", "Cognitive Science", "Deep Learning", "Agency", "Self"]
 
