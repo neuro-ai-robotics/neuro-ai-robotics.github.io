@@ -1,6 +1,6 @@
 - title: "SPIKING CONTROL"
   authors: "PI: Pablo Lanillos - JAE PRE CSIC"
-  year: 2023
+  year: 2025
   conference: "JAE PRE CSIC"
   abstract: "Spiking and Neuromorphic Control with Active Inference"
   link: ""
@@ -9,7 +9,7 @@
   
 - title: "SECOND BODY"
   authors: "PI: Pablo Lanillos - MOMENTUM PROGRAM CSIC"
-  year: 2023
+  year: 2024
   conference: "Next Generation Momentum Program CSIC"
   abstract: "Learning to control exoskeletons with reinforcement learning for movement pathologies"
   link: "../projects/second-body"
