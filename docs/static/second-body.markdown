@@ -1,6 +1,15 @@
-<!DOCTYPE html>
-<html>
-<body>
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<style>
+    img.responsive {
+        max-width: 30%;
+        height: auto;
+    }
+</style>
 
 <h1>SECOND BODY PROJECT</h1>
 <h2>Neuroscience-inspired AI for personalized control of wearable robots</h2>
@@ -17,5 +26,3 @@ implemented in sensorized exoskeletons, adapted for safe use in real environment
 candidate will join a young, highly active, interdisciplinary research group in the fields of AI,
 robotics, and neuroscience.</p>
 
-</body>
-</html> 
