@@ -1,3 +1,12 @@
+- title: "SPIKING CONTROL"
+  authors: "PI: Pablo Lanillos - JAE PRE CSIC"
+  year: 2023
+  conference: "JAE PRE CSIC"
+  abstract: "Spiking and Neuromorphic Control with Active Inference"
+  link: ""
+  image: "../images/research-projects/P-spiking-control.png"
+  topics: ["Spiking Neural Networkds", "Control", "Artificial Intelligence", "Active Inference"]
+  
 - title: "SECOND BODY"
   authors: "PI: Pablo Lanillos - MOMENTUM PROGRAM CSIC"
   year: 2023
@@ -12,7 +21,7 @@
   year: 2023
   conference: "DeepMax CSIC funds for talent attraction"
   abstract: "Learning to control exoskeletons with reinforcement learning for movement pathologies"
-  link: "-"
+  link: ""
   image: "../images/research-projects/P-RLexo.png"
   topics: ["Reinforcement learning", "Wereable Robotics", "Artificial Intelligence", "Rehabilitation"]
   
