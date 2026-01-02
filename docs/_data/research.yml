@@ -7,7 +7,7 @@
   image: "../images/research-projects/P-second-body.png"
   topics: ["Brain-inspired Intelligence", "Robotics", "Wereables", "Artificial Intelligence"]
   
-- title: "BRAIN-RL-EXO"
+- title: "RL-EXO"
   authors: "PI: Pablo Lanillos - CSIC RyC Talent Atraction"
   year: 2023
   conference: "DeepMax CSIC funds for talent attraction"
