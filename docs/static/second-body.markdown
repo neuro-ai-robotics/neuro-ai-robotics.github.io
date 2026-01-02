@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: second-body
+permalink: /projects/second-body/
 ---
 
 <style>
