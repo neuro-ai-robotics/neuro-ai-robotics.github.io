@@ -25,4 +25,4 @@ implemented in sensorized exoskeletons, adapted for safe use in real environment
 candidate will join a young, highly active, interdisciplinary research group in the fields of AI,
 robotics, and neuroscience.</p>
 
-![Second body project diagram](../../images/research-projects/P-second-body.png "Second body project diagram")
+![Second body project diagram](../../images/research-projects/second-body-diagram.png "Second body project diagram")
