@@ -1,11 +1,11 @@
-- title: "SPIKING CONTROL"
+- title: "SPIKING ACTIVE INFERENCE"
   authors: "PI: Pablo Lanillos - JAE PRE CSIC"
   year: 2023
   conference: "JAE PRE CSIC"
   abstract: "Spiking and Neuromorphic Control with Active Inference"
   link: ""
   image: "../images/research-projects/P-spiking-control.png"
-  topics: ["Spiking Neural Networkds", "Control", "Artificial Intelligence", "Active Inference"]
+  topics: ["Spiking Neural Networks", "Control", "Artificial Intelligence", "Active Inference"]
   
 - title: "SECOND BODY"
   authors: "PI: Pablo Lanillos - MOMENTUM PROGRAM CSIC"
