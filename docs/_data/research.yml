@@ -4,7 +4,7 @@
   conference: "Next Generation Momentum Program CSIC"
   abstract: "Learning to control exoskeletons with reinforcement learning for movement pathologies"
   link: "../projects/second-body.html"
-  image: "../images/research-projects/second-body.png"
+  image: "../images/research-projects/P-second-body.png"
   topics: ["Brain-inspired Intelligence", "Robotics", "Wereables", "Artificial Intelligence"]
   
 - title: "BRAIN-RL-EXO"
