@@ -17,7 +17,7 @@
   topics: ["Reinforcement learning", "Wereable Robotics", "Artificial Intelligence", "Rehabilitation"]
   
 - title: "METATOOL project"
-  authors: "PI: Pablo Lanillos - EIC PATHFINDER CHALLENGE"
+  authors: "PI: Pablo Lanillos - EU EIC PATHFINDER CHALLENGE"
   year: 2022
   conference: "EIC PATHFINDER CHALLENGE"
   abstract: "Robots that invent tools. METATOOL A metapredictive model of synthetic awareness for enabling tool invention"
@@ -28,7 +28,7 @@
 - title: "SPIKEFERENCE project"
   authors: "PI: Pablo Lanillos & Serge Thill - HUMAN BRAIN PROJECT SGA2"
   year: 2021
-  conference: "EU HUMAN BRAIN PROJECT SGA2"
+  conference: "EU HUMAN BRAIN PROJECT SGA3"
   abstract: "Spike-driven deep active inference for sequential goal behaviors"
   link: "https://spikeference.eu/"
   image: "../images/research-projects/P-spikeference.png"
