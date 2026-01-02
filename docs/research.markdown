@@ -78,7 +78,7 @@ permalink: /research/
     }
 </style>
 
-<div id="filter-bar">
+<!--<div id="filter-bar">
   <button class="filter-btn" onclick="filterResearch('all')">Show all</button>
   {% assign all_topics = "" %}
   {% for research in site.data.research %}
@@ -92,7 +92,7 @@ permalink: /research/
       <button class="filter-btn" onclick="filterResearch('{{ topic | escape }}')">{{ topic }}</button>
     {% endif %}
   {% endfor %}
-</div>
+</div>-->
 
 <div class="research-container">
   {% for research in site.data.research %}
