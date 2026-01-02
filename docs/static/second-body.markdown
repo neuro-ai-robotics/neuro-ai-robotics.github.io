@@ -1,6 +1,6 @@
 ---
 layout: page
-title: second-body
+title: SECOND BODY PROJECT
 permalink: /projects/second-body/
 ---
 
@@ -10,8 +10,6 @@ permalink: /projects/second-body/
         height: auto;
     }
 </style>
-
-<h1>SECOND BODY PROJECT</h1>
 <h2>Neuroscience-inspired AI for personalized control of wearable robots</h2>
 <a href="https://momentum.csic.es/en/" target="_blank">MOMENTUM PROGRAM CSIC</a>
 
